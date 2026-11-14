@@ -1,0 +1,24 @@
+Data Analyst - Finance Reporting
+Contoso Financial, Dublin (hybrid)
+
+About the role
+You will build and maintain finance reporting, analyse large datasets and keep the data accurate.
+
+Responsibilities
+- Build Power BI dashboards and reports, including data modelling and DAX measures.
+- Write SQL to extract, transform and validate data from the data warehouse.
+- Reconcile financial data and investigate data quality issues.
+- Document data definitions and track work in Jira.
+
+Requirements (essential)
+- 2+ years of experience in a data analyst or reporting role.
+- Strong SQL, including window functions.
+- Power BI with DAX and data modelling.
+- Advanced Excel.
+
+Desirable
+- Python (pandas) for data analysis.
+- Experience with Snowflake or dbt.
+- Tableau.
+
+Salary: EUR 62,000 - EUR 72,000

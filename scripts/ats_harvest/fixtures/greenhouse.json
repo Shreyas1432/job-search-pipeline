@@ -1,0 +1,13 @@
+{
+  "jobs": [
+    {
+      "id": 101,
+      "title": "Data Analyst",
+      "location": {
+        "name": "Dublin, Ireland"
+      },
+      "updated_at": "2026-10-18T10:00:00-04:00",
+      "absolute_url": "https://boards.greenhouse.io/acme/jobs/101"
+    }
+  ]
+}

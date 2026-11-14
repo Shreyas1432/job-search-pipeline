@@ -1,0 +1,13 @@
+{
+  "data": {
+    "jobBoard": {
+      "jobPostings": [
+        {
+          "id": "x1",
+          "title": "Analytics Engineer",
+          "locationName": "Dublin, Ireland"
+        }
+      ]
+    }
+  }
+}

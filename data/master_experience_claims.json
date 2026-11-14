@@ -1,0 +1,20 @@
+{
+  "_comment": "Demo candidate (fictional). Every resume claim under Experience must trace to an entry here.",
+  "production_experience": [
+    "Northwind Consulting (Advanced SQL): Wrote SQL with CTEs, window functions and multi-join queries to extract, transform and validate financial ERP data.",
+    "Northwind Consulting (Query Optimisation): Cut a nightly batch extraction from 40 to 15 minutes with execution plan tuning, indexing and partition pruning on multi-million row tables.",
+    "Northwind Consulting (Data Validation): Built Python (pandas) data profiling and validation checks that caught 99% of schema and data quality errors before records reached staging.",
+    "Northwind Consulting (Reconciliation): Reconciled 400,000+ accounts payable invoice records during an ERP cloud migration as co-lead of a 2-person workstream.",
+    "Northwind Consulting (Power BI): Built Power BI dashboards and DAX measures on star-schema fact and dimension tables in PostgreSQL for finance reporting.",
+    "Northwind Consulting (Documentation and Jira): Wrote data mapping specifications and business validation rules, and logged and tracked defects in Jira through UAT.",
+    "Northwind Consulting (Excel): Used advanced Excel (pivot tables, lookups, formulas) for reconciliation and data validation.",
+    "Northwind Consulting (Agile delivery): Ran the daily scrum calls for the data extraction track in an Agile (Scrum) team."
+  ],
+  "working_proficiency": [
+    "Northwind Consulting (GenAI SQL tool): Built a GenAI tool on the OpenAI API that converts Oracle SQL to PostgreSQL.",
+    "MSc thesis (Statistical analysis): Statistical analysis (ANOVA) and machine learning (scikit-learn) on 10 million public procurement records."
+  ],
+  "actively_building": [
+    "dbt and Snowflake (portfolio project): Building dbt staging, intermediate and mart models over Snowflake with schema tests. Portfolio-only, never under Experience."
+  ]
+}

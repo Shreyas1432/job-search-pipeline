@@ -1,0 +1,2 @@
+# Optional: only needed for live sourcing from Indeed + LinkedIn (scripts/jobspy_fetch.py)
+python-jobspy>=1.1

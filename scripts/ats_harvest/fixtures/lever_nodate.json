@@ -1,0 +1,10 @@
+[
+  {
+    "id": "abc",
+    "text": "Data Engineer",
+    "categories": {
+      "location": "Bengaluru, India"
+    },
+    "hostedUrl": "https://jobs.lever.co/acme/abc"
+  }
+]

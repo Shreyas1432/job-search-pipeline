@@ -1,0 +1,15 @@
+{
+  "totalFound": 1,
+  "content": [
+    {
+      "id": "sr1",
+      "name": "BI Developer",
+      "location": {
+        "city": "Dublin"
+      },
+      "releasedDate": "2026-10-16T00:00:00.000Z"
+    }
+  ],
+  "offset": 0,
+  "limit": 100
+}

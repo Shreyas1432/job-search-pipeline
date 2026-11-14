@@ -1,0 +1,11 @@
+{
+  "offers": [
+    {
+      "id": 5,
+      "title": "Reporting Analyst",
+      "city": "Dublin",
+      "country": "Ireland",
+      "careers_url": "https://acme.recruitee.com/o/reporting-analyst"
+    }
+  ]
+}

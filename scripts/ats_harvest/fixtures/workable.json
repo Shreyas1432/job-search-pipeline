@@ -1,0 +1,14 @@
+{
+  "jobs": [
+    {
+      "shortcode": "WK1",
+      "title": "Data Scientist",
+      "location": {
+        "city": "Chennai",
+        "country": "India"
+      },
+      "published_on": "2026-10-15",
+      "url": "https://apply.workable.com/acme/j/WK1"
+    }
+  ]
+}

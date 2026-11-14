@@ -1,0 +1,7 @@
+Senior Data Engineering Lead
+Fabrikam, Belfast
+
+Requirements
+- 7+ years of data engineering experience.
+- Candidates must hold Stamp 4 or be an EU citizen. No sponsorship is available.
+- AWS, Spark, Airflow in production.

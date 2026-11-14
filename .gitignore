@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+# generated
+data/jobs.db
+data/*.db-journal
+applications/
+sourcing/
+*.pdf
+*.docx
+# your real data never belongs in this repo
+data/profile.local.json

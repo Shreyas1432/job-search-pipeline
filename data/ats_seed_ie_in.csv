@@ -1,0 +1,42 @@
+# company,domain_or_ATS_board_url,market  — aggressive IE catalog (US-tech Dublin + Irish-relevant Workday); grows via `make ats-discover`
+hex,https://jobs.ashbyhq.com/hex,IE
+linear,https://jobs.ashbyhq.com/linear,IE
+mintlify,https://jobs.ashbyhq.com/mintlify,IE
+ramp,https://jobs.ashbyhq.com/ramp,IE
+runway,https://jobs.ashbyhq.com/runway,IE
+vanta,https://jobs.ashbyhq.com/vanta,IE
+watershed,https://jobs.ashbyhq.com/watershed,IE
+anthropic,https://boards.greenhouse.io/anthropic,IE
+asana,https://boards.greenhouse.io/asana,IE
+cloudflare,https://boards.greenhouse.io/cloudflare,IE
+coinbase,https://boards.greenhouse.io/coinbase,IE
+databricks,https://boards.greenhouse.io/databricks,IE
+datadog,https://boards.greenhouse.io/datadog,IE
+elastic,https://boards.greenhouse.io/elastic,IE
+figma,https://boards.greenhouse.io/figma,IE
+flipdish,https://boards.greenhouse.io/flipdish,IE
+gitlab,https://boards.greenhouse.io/gitlab,IE
+instacart,https://boards.greenhouse.io/instacart,IE
+intercom,https://boards.greenhouse.io/intercom,IE
+mongodb,https://boards.greenhouse.io/mongodb,IE
+qualtrics,https://boards.greenhouse.io/qualtrics,IE
+remote,https://boards.greenhouse.io/remote,IE
+robinhood,https://boards.greenhouse.io/robinhood,IE
+squarespace,https://boards.greenhouse.io/squarespace,IE
+stripe,https://boards.greenhouse.io/stripe,IE
+tines,https://boards.greenhouse.io/tines,IE
+twilio,https://boards.greenhouse.io/twilio,IE
+udemy,https://boards.greenhouse.io/udemy,IE
+Spectrum Life,https://spectrum-life.jobs.personio.com,IE
+Experian,https://jobs.smartrecruiters.com/Experian,IE
+Fortray Global,https://fortrayglobalservices.teamtailor.com,IE
+Stats Perform,https://statsperform.teamtailor.com,IE
+Amgen,https://amgen.wd1.myworkdayjobs.com/Careers,IE
+Mastercard,https://mastercard.wd1.myworkdayjobs.com/CorporateCareers,IE
+MSD/Merck,https://msd.wd5.myworkdayjobs.com/SearchJobs,IE
+Pfizer,https://pfizer.wd1.myworkdayjobs.com/PfizerCareers,IE
+PGIM/Prudential,https://pru.wd5.myworkdayjobs.com/Careers,IE
+Stryker,https://stryker.wd1.myworkdayjobs.com/StrykerCareers,IE
+Visa,https://visa.wd5.myworkdayjobs.com/Visa,IN
+Workday,https://workday.wd5.myworkdayjobs.com/Workday,IE
+An Post,https://fa-ewnd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/,IE

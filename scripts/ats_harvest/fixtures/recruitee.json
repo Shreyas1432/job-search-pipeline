@@ -1,0 +1,12 @@
+{
+  "offers": [
+    {
+      "id": 5,
+      "title": "Reporting Analyst",
+      "city": "Dublin",
+      "country": "Ireland",
+      "published_at": "2026-10-14T12:00:00.000+01:00",
+      "careers_url": "https://acme.recruitee.com/o/reporting-analyst"
+    }
+  ]
+}
